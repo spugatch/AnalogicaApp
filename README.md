@@ -1,0 +1,2 @@
+# AnalogicaApp
+AnalogicaApp
